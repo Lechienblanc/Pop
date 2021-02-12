@@ -240,3 +240,8 @@ body{
     background-color: #8789C0; 
     color: #111D4A;
 }
+
+span {
+    padding-left: 10px;
+    padding-right: 10px;
+}
